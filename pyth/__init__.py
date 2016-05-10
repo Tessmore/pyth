@@ -5,7 +5,7 @@ from __future__ import absolute_import
 
 import os.path
 
-__version__ = '0.5.6'
+__version__ = '0.6.0'
 
 writerMap = {
     '.rtf': 'pyth.plugins.rtf15.writer.Rtf15Writer',
